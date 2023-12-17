@@ -7,16 +7,11 @@
 A list of assistants that leverage AI to help me with my daily tasks.
 List is used to build packages for different languages for easy integration.
 
-Try assistants on [Telegram bot](https://t.me/CamoChatBot) with OpenAI API.
-
-## Table of Contents
-
-- [Assistants](#assistants)
-
 ## Files
 
-- `yml` - [assistants.yml](assistants.yml)
+- `yml` - [assistants.yml](assistants.yml)  for the full list.
+- various scripts for the ongoing effort to reorder + cluster the assistants.
 
-## Assistants
+## Work in progress
 
-[//]: See [build/assistants.yml](build/assistants.yml) for the full list.
+The assistants.yml file is called by the fuzzy finder `fzf` tool in script find_assistant in my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
