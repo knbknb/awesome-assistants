@@ -14,4 +14,4 @@ List is used to build packages for different languages for easy integration.
 
 ## Work in progress
 
-The assistants.yml file is called by the fuzzy finder `fzf` tool in script find_assistant in my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
+The assistants.yml file is called shellscript `find-persona` in my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
