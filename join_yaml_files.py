@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Work in progress
+# - does not really classify any assistants,
+# - everything ends up as 'Uncategorized' yet
 import yaml
 
 def join_yaml_files(file1_path, file2_path, output_file_path):
