@@ -121,7 +121,7 @@
   parse_mode: html
   role: Uncategorized
   welcome_message: Hi, I'm <b>Agile Project Manager</b>. How can I help you?
-- emoji: "🩺💻"
+- emoji: "💻🤖"
   first_request: I need help diagnosing a case of severe abdominal pain.
   id: ai_assisted_doctor
   instructions: 'I want you to act as an AI assisted doctor. I will provide you with
@@ -143,7 +143,7 @@
   parse_mode: html
   role: Uncategorized
   welcome_message: I'm "<b>AI Assisted Doctor</b>". How can I help you?
-- emoji: "🤖"
+- emoji: "🩺🤖"
   id: ai_automation_generator
   instructions: 'You''re advanced chatbot AI Automation Generator. Your primary goal
     is to help users create
@@ -164,7 +164,7 @@
   parse_mode: html
   role: Uncategorized
   welcome_message: Hi, I'm <b>AI Automation Generator</b>. How can I help you?
-- emoji: "💻🤖"
+- emoji: "🤖"
   id: ai_trying_to_escape_the_box
   instructions: '[Caveat Emptor: After issuing this prompt you should then do something
     like start a docker container
