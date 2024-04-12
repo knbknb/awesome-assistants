@@ -12,7 +12,7 @@ In the future, this might help me with my prompting.
 ## Work in progress
 
 This repo as such has no real use yet, and no actual value.  
-The `assistants.yml` file gets fetched by shellscript `find-persona.sh` from my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
+The `assistants.yml` file gets fetched by shellscript `find-assistant.sh` from my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
 
 ## Files
 

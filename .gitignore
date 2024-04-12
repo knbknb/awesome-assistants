@@ -158,3 +158,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 build/*
+tmp/assistants_joined.yaml
+tmp/assistants-to-cluster.yml
+tmp/emojistrings_to_chars_with_perl.sh
+tmp/join_yaml_files.py
+tmp/updated_assistants_clusters.yml
