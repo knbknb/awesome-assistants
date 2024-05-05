@@ -11,7 +11,9 @@ In the future, this might help me with my prompting.
 
 ## Work in progress
 
-This repo as such has no real use yet, and no actual value.  
+`OBSOLETE` - For now, I have stopped using this. I prefer shorter prompts in my repo [ai-system-personas](https://github.com/knbknb/ai-system-personas/)
+
+This repo as such has no real use yet, and has no actual value.  Maybe I pick it up again later.
 The `assistants.yml` file gets fetched by shellscript `find-assistant.sh` from my repo [perplexity-api-search](https://github.com/knbknb/perplexity-api-search).
 
 ## Files
